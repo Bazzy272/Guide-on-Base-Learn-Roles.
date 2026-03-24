@@ -5,3 +5,4 @@ tracking wallets
 bullish markers 
 engulf perttan 
 do 
+privacy we need 
