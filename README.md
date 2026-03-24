@@ -4,3 +4,4 @@ view wallet address and balance
 tracking wallets 
 bullish markers 
 engulf perttan 
+do 
