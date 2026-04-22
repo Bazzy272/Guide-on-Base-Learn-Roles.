@@ -6,4 +6,4 @@ bullish markers
 engulf perttan 
 do 
 privacy we need 
-pravita mood
+pravita moo
